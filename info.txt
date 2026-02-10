@@ -1,1 +1,3 @@
 Welcome to DevOps
+The courses offered here:
+- DevOps
